@@ -1,0 +1,1 @@
+close_open.exe VStart.exe C:\Users\Administrator.PC-20130126ZMFE\Desktop\close_open\Debug\新建文本文档.txt

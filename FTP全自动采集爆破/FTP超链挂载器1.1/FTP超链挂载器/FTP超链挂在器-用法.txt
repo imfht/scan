@@ -1,0 +1,13 @@
+落雪 QQ2602159946
+服务器配置信息在这个里面设置  Server.ini
+
+数据源使用  FTP--webshell权限查找器   查找到的数据   只读ftppassword3表操作
+需要挂载的页面wwwroot.txt  只需要输入名字就可以了软件会自动遍历FTP
+挂载时会自动检测有没有之前挂载过的代码
+
+
+
+灰帽SEO利器   FTP--webshell权限查找器      FTP暴破--杀手   全自动
+115网盘礼包接收地址：http://115.com/lb/5lblohb
+115网盘礼包码：5lblohb
+过年给大家发个大礼包

@@ -1,0 +1,4 @@
+给原来的  ftppassword3  获取标题取消掉了    改在软件中获取
+加入了    分布式扫描功能   POST提交方式  参考ftp.php   后台自己写
+
+后台地址设置 gost.ini文件        http_post=http://xxxxxxxx.com/ftp.php   这个信息换成自己的PSOT提交地址就行了

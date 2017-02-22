@@ -1,0 +1,2 @@
+testget:/{Path}/wp-includes/registration-functions.php
+testre:

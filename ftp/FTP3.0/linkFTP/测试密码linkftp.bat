@@ -1,0 +1,1 @@
+for /L %%i in (1,1,40) do @start python   linlkFTP.py

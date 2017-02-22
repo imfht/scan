@@ -1,0 +1,42 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: webfile - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/webfile.res" /d "_DEBUG" "C:\Users\Administrator.YKE5DH373UVCX0W\Desktop\webfile\webfile.rc"" 
+Creating temporary file "C:\Users\ADMINI~1.YKE\AppData\Local\Temp\RSP22F.tmp" with contents
+[
+/nologo /MTd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/webfile.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\Administrator.YKE5DH373UVCX0W\Desktop\webfile\webfile.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1.YKE\AppData\Local\Temp\RSP22F.tmp" 
+Creating temporary file "C:\Users\ADMINI~1.YKE\AppData\Local\Temp\RSP230.tmp" with contents
+[
+/nologo /MTd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/webfile.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\Administrator.YKE5DH373UVCX0W\Desktop\webfile\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1.YKE\AppData\Local\Temp\RSP230.tmp" 
+Creating command line "link.exe /nologo /subsystem:console /incremental:yes /pdb:"Debug/webfile.pdb" /debug /machine:I386 /out:"Debug/webfile.exe" /pdbtype:sept  .\Debug\StdAfx.obj .\Debug\webfile.obj .\Debug\webfile.res "
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+webfile.cpp
+C:\Users\Administrator.YKE5DH373UVCX0W\Desktop\webfile\webfile.cpp(39) : warning C4129: 'w' : unrecognized character escape sequence
+C:\Users\Administrator.YKE5DH373UVCX0W\Desktop\webfile\webfile.cpp(53) : warning C4129: 'w' : unrecognized character escape sequence
+C:\Users\Administrator.YKE5DH373UVCX0W\Desktop\webfile\webfile.cpp(60) : warning C4129: 'w' : unrecognized character escape sequence
+C:\Users\Administrator.YKE5DH373UVCX0W\Desktop\webfile\webfile.cpp(66) : warning C4508: 'main' : function should return a value; 'void' return type assumed
+C:\Users\Administrator.YKE5DH373UVCX0W\Desktop\webfile\webfile.cpp(334) : warning C4715: 'file_fwrite' : not all control paths return a value
+Linking...
+
+
+
+<h3>Results</h3>
+webfile.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

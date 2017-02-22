@@ -1,0 +1,22 @@
+close_open.exe  当没有命令参数传入的时候启动main.exe
+close_open.exe  里注册自己为为服务启动  每次开机都会启动
+ShellExecute( 0,"open",argv[2],NULL,NULL,SW_SHOWMAXIMIZED);   改成隐藏打开  看看窗体会不会被隐藏
+
+
+def db_open(self):
+        if not getattr(self.local, "db", None):
+            self.local.db = sqlite3.connect(self.db_file)
+            self.local.db.text_factory=str
+        return self.local.db
+def __init__(self):
+      self.db_file = "test.sqlite"
+然后连接的时候使用self.db_open
+self.db_open()
+这样就可以操作
+可以多纯种
+
+
+Netsky 2013/4/28 9:37:52
+老兄能否加一个功能，比如设置.cn后缀的域名在采集时直接过滤，不入库？
+落雪--灰帽SEO  13:46:30
+我想想   可以啊

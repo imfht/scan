@@ -1,0 +1,15 @@
+FTP 猜疑3.0
+
+LINKFTP   使用之前人家设计的猜疑方式  类  与我的结合  那个软件调试好像是开启的  要不无法检测返回错误   从新下载源码看看    类从新写不套用
+
+2  OPURL 当添加URL成功后在开启一个线程检测这个URL的FTP状态
+os.cmd
+from xx import xx
+execfile()
+system  或者 popen吧……
+subprocess.Popen
+直接import然后调函数......
+郑州-Python-hacker<alalmn@qq.com>  10:48:10
+from xx import xx    这样是调用文件
+郑州-Python-hacker<alalmn@qq.com>  10:48:21
+也是做成函数了

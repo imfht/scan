@@ -1,0 +1,1 @@
+python open_ftp.py hanguoc.txt

@@ -1,0 +1,25 @@
+    print u"---------------------------------------------------------------------"
+    print u"   软件只是娱乐测试  软件使用方法   main.exe url.txt     软件名 扫描URL"
+    print u"                    针对dedecms 漏洞写的一些插件                      "
+    print u"dedecms plus/search.php 注入漏洞-得到后台账号和md5(密码) bc_dedecms_search_php2.txt"
+    print u"DedeCms 5.x 本地文件包含及物理路径泄露          bc_DedeCms_5x.txt"
+    print u"dedecms search注入                             sql_dede_57_sp2.txt"
+    print u"dedecms漏洞getshell EXP                        exp_dedecms_getshell.txt"
+    print u"guige dede 0.9                                 exp_dedecms_8080_getshell.txt"
+    print u"针对官方留下的后门                              exp_dedecms_yijuhua.txt"
+    print u"批量测试有可能存在的  一句话                    exp_eval.txt"
+    print u"--------有什么不完善的地方请大家联系我      BY:29295842@qq.com----------"
+    print u"-----------------       time:---2015.2.24     ------------------------"
+    print u"----------------------------------------------------------------------"
+
+
+这2天没事从网上找了些dedeCMS的漏洞  集合了下希望对大家有用(插件源码也会公开)
+根据上边的提示不同的漏洞  保存在不同的   TXT文本里
+cs_eval.txt  测试可能存在的一句话
+
+如果无法下载
+请在这里下载
+http://forum.eviloctal.com/viewthread.php?tid=43431&extra=page%3D1&frombbs=1
+
+和这个配合一起使用更强
+http://forum.eviloctal.com/thread-43425-1-1.html

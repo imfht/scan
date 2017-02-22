@@ -1,0 +1,91 @@
+[117.95.103.50  ]:  administrator 123456
+
+[117.63.176.132 ]:  administrator [NULL]
+[117.63.176.132 ]:  admin [NULL]
+[117.63.176.132 ]:  admin$ [NULL]
+[117.63.176.132 ]:  BOOS [NULL]
+[117.63.176.132 ]:  username [NULL]
+[117.63.176.132 ]:  xiaozhang [NULL]
+[117.63.176.132 ]:  xiaohong [NULL]
+[117.63.176.132 ]:  guest [NULL]
+[117.63.176.132 ]:  task [NULL]
+
+
+[58.210.122.158 ]:  administrator 123456
+[58.210.22.2    ]:  qianhui 123
+[58.210.22.2    ]:  jiamei [NULL]
+[58.210.22.2    ]:  chendan 123
+[58.210.22.2    ]:  niuguowei [NULL]
+[58.211.197.4   ]:  panlei 123456
+[58.211.197.4   ]:  xuyan 123456
+[58.211.197.4   ]:  yuanjj 123456
+[58.211.197.4   ]:  zhujin 123456
+[58.211.197.4   ]:  liuhao 123456
+[58.211.197.4   ]:  daijx 123456
+[58.211.197.4   ]:  shaoy 123456
+[58.211.197.4   ]:  baoj 123456
+[58.211.197.4   ]:  huanghe 123456
+[58.211.197.4   ]:  tanwb 123456
+[58.211.197.4   ]:  xieyun 123456
+[58.211.197.4   ]:  huazy 123456
+[117.63.176.132 ]:  administrator [NULL]
+[117.63.176.132 ]:  admin [NULL]
+[117.63.176.132 ]:  admin$ [NULL]
+[117.63.176.132 ]:  BOOS [NULL]
+[117.63.176.132 ]:  username [NULL]
+[117.63.176.132 ]:  xiaozhang [NULL]
+[117.63.176.132 ]:  xiaohong [NULL]
+[117.63.176.132 ]:  guest [NULL]
+[117.63.176.132 ]:  task [NULL]
+[117.84.62.45   ]:  guest-share [NULL]
+[117.84.62.45   ]:  root [NULL]
+[117.84.62.45   ]:  root [NULL]
+[117.95.103.50  ]:  administrator 123456
+[121.232.36.63  ]:  guest-share [NULL]
+[121.232.36.63  ]:  root [NULL]
+[121.232.36.63  ]:  root [NULL]
+[218.3.95.149   ]:  administrator [NULL]
+[218.3.95.149   ]:  admin [NULL]
+[218.3.95.149   ]:  admin$ [NULL]
+[218.3.95.149   ]:  BOOS [NULL]
+[218.3.95.149   ]:  username [NULL]
+[218.3.95.149   ]:  xiaozhang [NULL]
+[218.3.95.149   ]:  xiaohong [NULL]
+[218.3.95.149   ]:  guest [NULL]
+[218.3.95.149   ]:  task [NULL]
+[218.90.157.139 ]:  admin [NULL]
+[218.90.157.139 ]:  admin$ [NULL]
+[218.90.157.139 ]:  BOOS [NULL]
+[218.90.157.139 ]:  username [NULL]
+[218.90.157.139 ]:  xiaozhang [NULL]
+[218.90.157.139 ]:  xiaohong [NULL]
+[218.90.157.139 ]:  guest [NULL]
+[218.90.157.139 ]:  task [NULL]
+[221.224.10.6   ]:  administrator [NULL]
+[221.224.75.62  ]:  administrator 123456789
+[221.226.31.94  ]:  administrator [NULL]
+[221.226.106.154]:  admin [NULL]
+[221.226.106.154]:  admin$ [NULL]
+[221.226.106.154]:  BOOS [NULL]
+[221.226.106.154]:  username [NULL]
+[221.226.106.154]:  xiaozhang [NULL]
+[221.226.106.154]:  xiaohong [NULL]
+[221.226.106.154]:  guest [NULL]
+[221.226.106.154]:  task [NULL]
+[221.228.144.232]:  guest-share [NULL]
+[221.228.144.232]:  root [NULL]
+[221.228.144.232]:  root [NULL]
+[222.92.103.35  ]:  Administrator [NULL]
+[222.94.225.36  ]:  administrator [NULL]
+[222.94.225.36  ]:  admin [NULL]
+[222.92.213.5   ]:  store [NULL]
+[222.94.225.36  ]:  admin$ [NULL]
+[222.94.225.36  ]:  BOOS [NULL]
+[222.94.225.36  ]:  username [NULL]
+[222.94.225.36  ]:  xiaozhang [NULL]
+[222.94.225.36  ]:  xiaohong [NULL]
+[222.94.225.36  ]:  guest [NULL]
+[222.94.225.36  ]:  task [NULL]
+[222.94.59.206  ]:  guest-share [NULL]
+[222.94.59.206  ]:  root [NULL]
+[222.94.59.206  ]:  root [NULL]
